@@ -12,3 +12,5 @@ This is a vulner scan script made in python with new options
     --timeout: Set the timeout value (in seconds) for the requests made during scanning.
     --redirects: Follow redirects during scanning and display information about them.
 ```
+## Install
+Launch the init.bat file
