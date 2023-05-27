@@ -1,5 +1,5 @@
 @echo off
-set "REPO_URL=https://github.com/BUR-Ak-47/vscan.git"
+set "REPO_URL=https://github.com/huy-dow47/vscan"
 set "REPO_DIR=vscan"
 set "REQUIREMENTS_FILE=requirements.txt"
 
